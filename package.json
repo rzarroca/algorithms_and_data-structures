@@ -1,0 +1,21 @@
+{
+  "name": "ds_and_algo",
+  "version": "1.0.0",
+  "description": "Data structures & algorithm exercises from HackerRank and Codelity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "standard": "^16.0.4"
+  },
+  "eslintConfig": {
+    "extends": [
+      "./node_modules/standard/eslintrc.json"
+    ]
+  }
+}
